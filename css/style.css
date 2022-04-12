@@ -1,0 +1,55 @@
+.container-header{
+    width: 80%;
+}
+    
+.title{
+    color: #2cb3db;
+    margin-left: 20px;
+    margin-top: 80px;
+}
+
+.container-header2{
+    background-color: #2cb3db;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+.sub-title{
+    color: white;
+    font-size: 20px;
+}
+    
+    
+/* MAIN */
+main{
+    background-color: #dddddd;
+}
+
+.square{
+    text-align: center;
+    background-color: white;
+    height: 100px;
+    line-height: 130px;
+    box-shadow: 5px 10px 18px #888888;
+}
+
+i{
+    font-size: 40px;
+}
+
+.sub{
+    font-size: 10px;
+    margin-top: 10px;
+}
+    
+.orange{
+    color: orange;
+}
+
+.green{
+    color: green;
+}
+
+.blue{
+    color: blue;
+}
